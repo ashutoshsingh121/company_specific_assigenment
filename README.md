@@ -1,7 +1,3 @@
-# company_specific_assigenment
-
-
-
-Rentomojo Round 1 Assignment
+# company_specific_assigenmen
 
 PHONE BOOK WEB APP
